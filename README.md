@@ -1,4 +1,4 @@
-website is live at : https://ecom-shopping-app-react.onrender.com
+website is live at : https://gleeful-liger-a6ddca.netlify.app/
 
 # Getting Started with Create React App
 
