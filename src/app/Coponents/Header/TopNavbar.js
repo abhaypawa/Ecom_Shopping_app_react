@@ -19,7 +19,7 @@ function TopNavbar() {
   WebkitBackgroundClip: 'text',
   color: 'transparent',
   WebkitTextFillColor: 'transparent'}}>
-         Fashion World
+         TrendyCart
         </NavLink>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
